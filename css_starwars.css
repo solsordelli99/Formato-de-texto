@@ -1,0 +1,26 @@
+.imperio {
+  background-color: red;
+}
+.rebeldes {
+  background-color: blue;
+}
+#darthvader {
+  font-size:x-large;
+}
+
+#luke {
+  font-style: italic;
+}
+
+.soldados{
+border:dotted;
+letter-spacing: 2px;
+}
+
+.unidadesdeapoyo{
+text-align: center;
+}
+
+.nave{
+text-transform: uppercase
+}
